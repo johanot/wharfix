@@ -33,3 +33,4 @@ ALTER TABLE `person`
 ALTER TABLE `registry`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
+lol
